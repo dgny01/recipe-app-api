@@ -4,6 +4,7 @@ from django.core.management import call_command
 from django.db.utils import OperationalError
 from django.test import SimpleTestCase
 
+
 class CommandTests(SimpleTestCase):
     """Test commands."""
 
