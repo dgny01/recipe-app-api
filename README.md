@@ -1,6 +1,6 @@
 # 🍳 Recipe App API
 
-[![Build Status](https://github.com/KULLANICI_ADIN/recipe-app-api/actions/workflows/checks.yml/badge.svg)](https://github.com/KULLANICI_ADIN/recipe-app-api/actions)
+[![Build Status](https://github.com/dgny01/recipe-app-api/actions/workflows/checks.yml/badge.svg)](https://github.com/dgny01/recipe-app-api/actions)
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://python.org)
 [![Django](https://img.shields.io/badge/Django-3.2-green.svg)](https://djangoproject.com)
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue.svg)](https://docker.com)
@@ -38,7 +38,7 @@ Bilgisayarınızda **Docker** ve **Docker Compose** kurulu olduğundan emin olun
 
 ### 1. Projeyi Klonlayın
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/recipe-app-api.git](https://github.com/KULLANICI_ADIN/recipe-app-api.git)
+git clone [https://github.com/dgny01/recipe-app-api.git](https://github.com/dgny01recipe-app-api.git)
 cd recipe-app-api
 
 2. Ortam Değişkenlerini (Environment) Ayarlayın
