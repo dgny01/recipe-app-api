@@ -1,4 +1,5 @@
 # 🍳 Recipe App API
+✅ Full TDD coverage (Unit & Integration Tests) ✅ Multi-container orchestration (Docker, Nginx, PostgreSQL) ✅ Automated CI/CD pipeline (GitHub Actions & Flake8)
 
 [![Build Status](https://github.com/dgny01/recipe-app-api/actions/workflows/checks.yml/badge.svg)](https://github.com/dgny01/recipe-app-api/actions)
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://python.org)
@@ -38,7 +39,7 @@ Bilgisayarınızda **Docker** ve **Docker Compose** kurulu olduğundan emin olun
 
 ### 1. Projeyi Klonlayın
 ```bash
-git clone [https://github.com/dgny01/recipe-app-api.git](https://github.com/dgny01recipe-app-api.git)
+git clone [https://github.com/dgny01/recipe-app-api.git](https://github.com/dgny01/recipe-app-api.git)
 cd recipe-app-api
 
 2. Ortam Değişkenlerini (Environment) Ayarlayın
